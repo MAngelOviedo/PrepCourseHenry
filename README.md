@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Test de prueba para el crep course.
+Test crear y clonar repositorio, github -> compu
